@@ -1,2 +1,2 @@
 #! /bin/bash
-eco "hellow workd from fiel 2"
+echo "hellow workd from fiel 2"
